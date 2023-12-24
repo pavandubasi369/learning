@@ -96,12 +96,3 @@ var person = {
 
 console.log(person.relatives.mothersSide[0].address.pincode);
 console.log(person.relatives.mothersSide[0].address.phoneNumbers[1].sim);
-
-// Deepak Question 
-// Print the Srinivas whatsapp number (2 whatsapp numbers)
-
-// Chintu Question
-// Print the Yellaswamy pincode and JIO SIM
-
-// Manoj Question
-// Print Persons his phone numbers and sim names
