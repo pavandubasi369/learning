@@ -60,4 +60,4 @@ var instagramProfile = {
     
 }
 
-console.log(instagramProfile.home[0].closeFriendsStories);
+console.log(instagramProfile.reels);
